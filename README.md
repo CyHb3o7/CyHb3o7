@@ -30,3 +30,7 @@
 
 
 ### :trophy: Достижения :
+
+<div>
+  <img src="https"://github-profile-trophy.app/?username=CyHb3o7" alt=""/>
+</div>
