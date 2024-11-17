@@ -36,3 +36,7 @@
 </div>
 
 ### :keyboard: Наиболее использованные языки :
+
+<div>
+  <img src="https://github-readme-stats.versel.app/api/top-langs/?username=CyHb3o7" alt=""/>
+</div>
