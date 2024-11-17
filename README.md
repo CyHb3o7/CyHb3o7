@@ -24,6 +24,6 @@
 ### :hammer_and_wrench: Языки и инструменты :
 
 <div>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" wigth="5" heigth= "5"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" wigth="5" heigth= "5"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" wigth="75" heigth= "75"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" wigth="75" heigth= "75"/>
 </div>
