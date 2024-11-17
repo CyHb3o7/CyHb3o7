@@ -27,4 +27,6 @@
   <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" wigth="40" heigth= "40"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" wigth="40" heigth= "40"/>
 </div>
+
+
 ### :trophy: Достижения :
