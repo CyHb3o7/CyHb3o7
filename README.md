@@ -40,3 +40,9 @@
 <div>
   <img src="https://github-readme-stats.versel.app/api/top-langs/?username=CyHb3o7" alt=""/>
 </div>
+
+### :bar_chart: Статистика активности :
+
+<div>
+  <img src="https://github-readme-activity-graph.versel.app/graph?username=CyHb3o7&theme=dracula" alt=""/>
+</div>
