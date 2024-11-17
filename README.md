@@ -44,5 +44,5 @@
 ### :bar_chart: Статистика активности :
 
 <div>
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph?username=CyHb3o7&theme=dracula" alt=""/>
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph?username=CyHb3o7&theme=react" alt=""/>
 </div>
