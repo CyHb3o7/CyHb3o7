@@ -38,7 +38,7 @@
 ### :keyboard: Наиболее использованные языки :
 
 <div>
-  <img src="https://github-readme-stats.versel.app/api/top-langs/?username=CyHb3o7" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CyHb3o7" alt=""/>
 </div>
 
 ### :bar_chart: Статистика активности :
